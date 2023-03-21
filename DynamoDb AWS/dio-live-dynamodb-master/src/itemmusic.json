@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Charlie Brown Junior"},
+  "SongTitle": {"S": "Teste"},
+  "AlbumTitle": {"S": "Sk8"},
+  "SongYear": {"S": "1995"}
+}

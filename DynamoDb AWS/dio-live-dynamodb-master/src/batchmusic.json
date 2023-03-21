@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Red Hot Chili Pepers"},
+                  "SongTitle": {"S": "Can't Stop"},
+                  "AlbumTitle": {"S": "Teste"},
+                  "SongYear": {"S": "2003"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Tipo": {"S": "Bolo Chocolate"},
+                  "Receita": {"S": "Receita de bolo"},
+                  "ingrediente": {"S": "Chocolate"},
+                  "ano": {"S": "2022"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Capital Inicial"},
+                  "SongTitle": {"S": "independencia"},
+                  "AlbumTitle": {"S": "Capital Inicial"},
+                  "SongYear": {"S": "2005"}
+                }
+            }
+        }
+      ]
+}
